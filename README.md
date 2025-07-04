@@ -4,7 +4,7 @@ Autor: Thomas Alves de Souza Abrantes
 **Este repositório foi destinado a entrega do MVP da Sprint de Análise de Dados e Boas Práticas da Pós-Graduação na PUC-RIO.**  
 <br>
 
-O MVP foi desenvolvido com um notebook do Google Collab disponivei neste repositório e acessado pelo arquivo:
+O MVP foi desenvolvido com um notebook do Google Colab disponivei neste repositório e acessado pelo arquivo:
 *  Notebook Google Collab: **Sprint_2_MVP_Análise_de_Dados_e_Boas_Práticas.ipynb**
 <br>
 
